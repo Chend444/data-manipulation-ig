@@ -13,13 +13,13 @@ This project provides a simple Express.js API for processing metrics data.
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Chend444/data-manipulation-ig.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd <project-directory>
+    cd data-manipulation-ig
     ```
 
 3. **Install dependencies:**
